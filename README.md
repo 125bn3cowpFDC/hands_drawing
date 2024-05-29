@@ -3,8 +3,7 @@
 + Framework & Model : Mediapipe-hands, MLP, Tensorflow-Keras
  ---
  ## Program Architecture
- 이미지 첨부
-
+<img src="./program_architecture.png", height="100x", width="100px">
 ---
 ## ML Model
  ### Dataset

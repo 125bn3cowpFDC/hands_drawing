@@ -3,7 +3,7 @@
 + Framework & Model : Mediapipe-hands, MLP, Tensorflow-Keras
  ---
  ## Program Architecture
-![Architecture](./progtam_architecture.png)
+![architecture](./progtam_architecture.png)
 ---
 ## ML Model
  ### Dataset

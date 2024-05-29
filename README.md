@@ -34,6 +34,8 @@
 3. 정규화된 값들의 내적을 통해 마디 사이 각도 추출
 ---
 ### Model Input Separate
+![hand_dist](https://github.com/125bn3cowpFDC/hands_drawing/assets/170291905/858a9b35-267b-479f-a0d6-15d77ddcf394)
+
 two-hands motion
 ```
 def twohand_mode(landmark1, landmark2):
